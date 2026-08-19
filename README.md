@@ -10,6 +10,9 @@ The goal is to provide an effective way to monitor and forecast air quality usin
 
 ---
 
+live server
+https://cdx93u-4n0ufbdgj-arcedawebapps1.vercel.app
+
 ## 👨‍💻 Author
 
 **Mahidhar Yadav**
